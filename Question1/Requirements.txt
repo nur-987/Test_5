@@ -1,0 +1,46 @@
+﻿Person Class
+Id
+personsName
+age
+MoneyAtPresent
+ChequeBookNumber
+HasAccount
+
+Functions
+
+1)OpenAccount
+Ask for person details
+only 1 account per person
+Above the age of 12
+new account willl have 0 in bank
+
+2)Withdraw - Cash(below 5k) & Cheque(above 5k)
+must have a valid account
+In cash or cheque?
+above 5k must be cheque
+how much to withdraw?
+must have that amount in account
+what is the cheque number
+must match ChequeBookNumber
+
+
+3)Deposit - Cash & Cheque
+must have a valid account
+In cash or cheque?
+aboce 5k must be cheque
+how much to deposit?
+must add that amount in the account
+what is the cheque number?
+must match ChequeBookNumber
+
+4)LoanApplication
+how much to loan?
+when to return?
+aprroved?
+when will be credited?
+display interest rate
+must have a valid account 
+must have more than 1k in the bank 
+processing takes 3 days
+
+
